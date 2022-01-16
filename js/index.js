@@ -27,7 +27,7 @@ console.log(tmp);
 hacker1 = tmp;
 
 
-//Reversing the String
+//Reversing the String - i know it`s a bit cheesy
 let reverseString  =  hacker2.split('').reverse().join('');
 console.log(`It's a reverseeeeee!!! > ${reverseString} <`);
 //console.log(hacker1.localeCompare(hacker2))
